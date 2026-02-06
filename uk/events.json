@@ -64,17 +64,17 @@
     "description": "The Pontefract Model Railway Exhibition will return to NEW College for 2023, with the Society hosting its 52nd show. Selection of quality layouts and trade support. Cafe serving a range of refreshments."
   },
   {
-    "name": "Winter Meet",
-    "organizer": "G Scale Society Kent Group",
-    "startDate": "2023-01-29",
-    "endDate": "2023-01-29",
-    "venue": "Teynham Village Hall",
-    "address": "Belle Friday Close, Teynham, Sittingbourne, Kent",
-    "layouts": 4,
-    "traders": 1,
-    "features": ["Club Stand"],
-    "amenities": ["Wheelchair Accessible", "Free Parking", "Refreshments"],
-    "specialFeatures": ["45mm and 32mm gauge", "Electric and live steam power", "Secondhand sales stand"],
-    "description": "The Group's Annual Winter Meet featuring larger layouts scale Model railway layouts in 45mm and 32mm gauge and both electric and live steam power. A friendly day with the chance to see all that large scale modelling can offer, and maybe give you some ideas for the garden. There will be 5 layouts present plus a trade stand from Chalk Garden Rail and a secondhand sales stand."
+    "name": "Basingstoke & North Hants Model Railway Society Exhibition",
+    "organizer": "Basingstoke & North Hants Model Railway Society",
+    "startDate": "2025-03-14",
+    "endDate": "2025-03-15",
+    "venue": "Blue Coat School",
+    "address": "Western Way, Basingstoke, RG22 6HQ",
+    "layouts": 0,
+    "traders": 0,
+    "features": [],
+    "amenities": [],
+    "specialFeatures": [],
+    "description": ""
   }
 ]
