@@ -50,24 +50,26 @@
     "description": "The Erith Model Railway Society's January Exhibition, one of South East England's largest shows (And probably Kent's largest by stand numbers), will return to the Longfield Academy for our 6th show there (And our first since 2020). The show will continue to encompass at least 30 layouts, extensive trade and society support, demonstrators, static exhibits and charity raffle, making nearly 90 stands in total."
   },
   {
-    "name": "Pontefract Model Railway Exhibition",
-    "organizer": "Normanton and Pontefract Model Railway Society",
-    "startDate": "2023-01-28",
-    "endDate": "2023-01-29",
-    "venue": "New College",
-    "address": "Park Lane, Pontefract, West Yorkshire",
-    "layouts": 20,
-    "traders": 10,
-    "features": ["Club Stand", "Modelling Demonstrations"],
-    "amenities": ["Wheelchair Accessible", "Free Parking", "Refreshments"],
-    "admission": "Free admission for accompanied Under 16s",
-    "description": "The Pontefract Model Railway Exhibition will return to NEW College for 2023, with the Society hosting its 52nd show. Selection of quality layouts and trade support. Cafe serving a range of refreshments."
+    "name": "Astolat Model Railway Club Exhibition",
+    "organizer": "Astolat Model Railway Club",
+    "startDate": "2026-07-12",
+    "endDate": "2026-07-12",
+    "venue": "Guildford Spectrum",
+    "address": "Parkway, Guildford, GU1 1UP",
+    "layouts": 0,
+    "traders": 0,
+    "features": [],
+    "amenities": [],
+    "admission": "",
+    "description": "TBC",
+    "latLng": "51.24903, -0.56293",
+    "url": "https://astolatmrc.co.uk/"
   },
   {
     "name": "Basingstoke & North Hants Model Railway Society Exhibition",
     "organizer": "Basingstoke & North Hants Model Railway Society",
-    "startDate": "2025-03-14",
-    "endDate": "2025-03-15",
+    "startDate": "2026-03-14",
+    "endDate": "2026-03-15",
     "venue": "Blue Coat School",
     "address": "Western Way, Basingstoke, RG22 6HQ",
     "layouts": 0,
@@ -75,6 +77,8 @@
     "features": [],
     "amenities": [],
     "specialFeatures": [],
-    "description": ""
+    "description": "",
+    "latLng": "51.25442, -1.11723",
+    "url", "https://basingstokemrs.uk/basingstoke-model-railway-show-2026/"
   }
 ]
