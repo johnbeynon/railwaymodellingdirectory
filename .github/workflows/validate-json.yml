@@ -1,0 +1,118 @@
+name: Validate JSON Files
+
+on:
+  push:
+    paths:
+      - '**/*.json'
+  pull_request:
+    paths:
+      - '**/*.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Validate JSON syntax
+        run: |
+          echo "Validating JSON files..."
+          EXIT_CODE=0
+
+          # Find all JSON files
+          JSON_FILES=$(find . -name "*.json" -not -path "*/node_modules/*" -not -path "*/.git/*")
+
+          if [ -z "$JSON_FILES" ]; then
+            echo "No JSON files found"
+            exit 0
+          fi
+
+          # Validate each JSON file
+          for file in $JSON_FILES; do
+            echo "Checking $file..."
+            if ! python3 -m json.tool "$file" > /dev/null 2>&1; then
+              echo "❌ Invalid JSON in $file"
+              python3 -m json.tool "$file"
+              EXIT_CODE=1
+            else
+              echo "✅ Valid JSON: $file"
+            fi
+          done
+
+          if [ $EXIT_CODE -eq 0 ]; then
+            echo ""
+            echo "All JSON files are valid!"
+          else
+            echo ""
+            echo "Some JSON files have syntax errors. Please fix them."
+          fi
+
+          exit $EXIT_CODE
+
+      - name: Validate events.json structure
+        if: hashFiles('**/events.json') != ''
+        run: |
+          echo "Validating events.json structure..."
+
+          for events_file in $(find . -name "events.json" -not -path "*/node_modules/*"); do
+            echo "Checking structure of $events_file..."
+
+            python3 << 'EOF'
+          import json
+          import sys
+          from pathlib import Path
+
+          def validate_event(event, index):
+              errors = []
+              required_fields = ['name', 'organizer', 'startDate', 'venue']
+
+              for field in required_fields:
+                  if field not in event:
+                      errors.append(f"  Event {index}: Missing required field '{field}'")
+
+              # Validate date format if present
+              if 'startDate' in event:
+                  date_str = event['startDate']
+                  if not isinstance(date_str, str) or len(date_str) != 10 or date_str.count('-') != 2:
+                      errors.append(f"  Event {index}: Invalid startDate format '{date_str}' (expected YYYY-MM-DD)")
+
+              if 'endDate' in event:
+                  date_str = event['endDate']
+                  if not isinstance(date_str, str) or len(date_str) != 10 or date_str.count('-') != 2:
+                      errors.append(f"  Event {index}: Invalid endDate format '{date_str}' (expected YYYY-MM-DD)")
+
+              return errors
+
+          events_file = sys.argv[1] if len(sys.argv) > 1 else './uk/events.json'
+
+          try:
+              with open(events_file, 'r') as f:
+                  data = json.load(f)
+
+              if not isinstance(data, list):
+                  print(f"❌ {events_file}: Root element must be an array")
+                  sys.exit(1)
+
+              all_errors = []
+              for idx, event in enumerate(data):
+                  if not isinstance(event, dict):
+                      all_errors.append(f"  Event {idx}: Must be an object")
+                  else:
+                      all_errors.extend(validate_event(event, idx))
+
+              if all_errors:
+                  print(f"❌ Structure validation errors in {events_file}:")
+                  for error in all_errors:
+                      print(error)
+                  sys.exit(1)
+              else:
+                  print(f"✅ Structure validation passed for {events_file}")
+                  print(f"   Found {len(data)} valid events")
+
+          except Exception as e:
+              print(f"❌ Error validating {events_file}: {e}")
+              sys.exit(1)
+          EOF
+          done
