@@ -1,0 +1,80 @@
+[
+  {
+    "name": "The Southampton Model Railway Exhibition",
+    "organizer": "Southampton Model Railway Society",
+    "startDate": "2023-01-28",
+    "endDate": "2023-01-29",
+    "venue": "Barton Peveril College",
+    "address": "Chestnut Avenue, Eastleigh, Hampshire",
+    "layouts": 22,
+    "traders": 22,
+    "features": ["Club Stand", "Modelling Demonstrations"],
+    "amenities": ["Wheelchair Accessible", "Free Parking", "Refreshments"],
+    "transport": "Free heritage bus service between college and Eastleigh/Southampton Airport Parkway stations approximately every half hour from 9:30am",
+    "description": "Barton Peveril College is about 1 1/2 miles from M3 Junc 13 or M27 Junc 5 and will be AA signed from shortly after the junctions. Eastleigh and Southampton Airport Parkway stations are both about 25 mins walk."
+  },
+  {
+    "name": "Irvine Model Railway Exhibition",
+    "organizer": "Kilmarnock & District Model Railway Club",
+    "startDate": "2023-01-28",
+    "endDate": "2023-01-29",
+    "venue": "The Linthouse Building, Scottish Maritime Museum",
+    "address": "Irvine, Ayrshire",
+    "amenities": ["Wheelchair Accessible", "Free Parking", "Refreshments"],
+    "description": "After a very successful Exhibition in the Scottish Maritime Museum in 2022 it has been agreed that there will be an Exhibition in 2023."
+  },
+  {
+    "name": "Model Railway Exhibition",
+    "organizer": "Kendal Model Railway Club",
+    "startDate": "2023-01-28",
+    "endDate": "2023-01-29",
+    "venue": "Leisure Centre",
+    "address": "Burton Road, Kendal, Cumbria",
+    "layouts": 12,
+    "traders": 14,
+    "features": ["Club Stand", "Modelling Demonstrations"],
+    "amenities": ["Wheelchair Accessible", "Free Parking", "Refreshments"],
+    "description": "Annual exhibition celebrating 60 years since the founding of Kendal Model Railway Club"
+  },
+  {
+    "name": "Longfield Model Railway Exhibition 2023",
+    "organizer": "Erith Model Railway Society",
+    "startDate": "2023-01-28",
+    "endDate": "2023-01-29",
+    "venue": "The Longfield Academy",
+    "address": "Main Road (B260), Longfield, Kent",
+    "layouts": "30+",
+    "traders": "40+",
+    "features": ["Club Stand", "Modelling Demonstrations"],
+    "amenities": ["Wheelchair Accessible", "Free Parking", "Refreshments"],
+    "description": "The Erith Model Railway Society's January Exhibition, one of South East England's largest shows (And probably Kent's largest by stand numbers), will return to the Longfield Academy for our 6th show there (And our first since 2020). The show will continue to encompass at least 30 layouts, extensive trade and society support, demonstrators, static exhibits and charity raffle, making nearly 90 stands in total."
+  },
+  {
+    "name": "Pontefract Model Railway Exhibition",
+    "organizer": "Normanton and Pontefract Model Railway Society",
+    "startDate": "2023-01-28",
+    "endDate": "2023-01-29",
+    "venue": "New College",
+    "address": "Park Lane, Pontefract, West Yorkshire",
+    "layouts": 20,
+    "traders": 10,
+    "features": ["Club Stand", "Modelling Demonstrations"],
+    "amenities": ["Wheelchair Accessible", "Free Parking", "Refreshments"],
+    "admission": "Free admission for accompanied Under 16s",
+    "description": "The Pontefract Model Railway Exhibition will return to NEW College for 2023, with the Society hosting its 52nd show. Selection of quality layouts and trade support. Cafe serving a range of refreshments."
+  },
+  {
+    "name": "Winter Meet",
+    "organizer": "G Scale Society Kent Group",
+    "startDate": "2023-01-29",
+    "endDate": "2023-01-29",
+    "venue": "Teynham Village Hall",
+    "address": "Belle Friday Close, Teynham, Sittingbourne, Kent",
+    "layouts": 4,
+    "traders": 1,
+    "features": ["Club Stand"],
+    "amenities": ["Wheelchair Accessible", "Free Parking", "Refreshments"],
+    "specialFeatures": ["45mm and 32mm gauge", "Electric and live steam power", "Secondhand sales stand"],
+    "description": "The Group's Annual Winter Meet featuring larger layouts scale Model railway layouts in 45mm and 32mm gauge and both electric and live steam power. A friendly day with the chance to see all that large scale modelling can offer, and maybe give you some ideas for the garden. There will be 5 layouts present plus a trade stand from Chalk Garden Rail and a secondhand sales stand."
+  }
+]
