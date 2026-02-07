@@ -5,7 +5,8 @@
     "startDate": "2023-01-28",
     "endDate": "2023-01-29",
     "venue": "Barton Peveril College",
-    "address": "Chestnut Avenue, Eastleigh, Hampshire",
+    "address": "Chestnut Avenue, Eastleigh",
+    "county": "Hampshire",
     "layouts": 22,
     "traders": 22,
     "features": ["Club Stand", "Modelling Demonstrations"],
@@ -56,6 +57,7 @@
     "endDate": "2026-07-12",
     "venue": "Guildford Spectrum",
     "address": "Parkway, Guildford, GU1 1UP",
+    "county": "Surrey".
     "layouts": 0,
     "traders": 0,
     "features": [],
@@ -72,6 +74,7 @@
     "endDate": "2026-03-15",
     "venue": "Blue Coat School",
     "address": "Western Way, Basingstoke, RG22 6HQ",
+    "county", "Berkshire",
     "layouts": 0,
     "traders": 0,
     "features": [],
@@ -80,5 +83,22 @@
     "description": "",
     "latLng": "51.25442, -1.11723",
     "url": "https://basingstokemrs.uk/basingstoke-model-railway-show-2026/"
+  }.
+  {
+    "name": "Roxley Models Exhibition",
+    "organizer": "Roxley Models",
+    "startDate": "2026-05-16",
+    "endDate": "2026-05-17",
+    "venue": "Denbies Wine Estate",
+    "address": "Bradley Lane, Dorking, RH5 6AA",
+    "county": "Surrey",
+    "layouts": 0,
+    "traders": 0,
+    "features": [],
+    "amenities": [],
+    "specialFeatures": [],
+    "description": "",
+    "latLng": "51.24815, -0.33186",
+    "url": "https://www.roxleymodels.co.uk/article_info.php?articles_id=24"
   }
 ]
