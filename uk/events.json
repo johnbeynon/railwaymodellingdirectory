@@ -168,5 +168,22 @@
     "description": "",
     "latLng": "51.72376, -0.83782",
     "url": "https://www.railex.org.uk/doku.php"
+  },
+  {
+    "name": "Exhibition",
+    "organizer": "Tonbridge Model Railway Club",
+    "startDate": "2026-02-21",
+    "endDate": "2026-02-21",
+    "venue": "Angel Centre",
+    "address": "Tonbridge, TN9 1SF",
+    "county": "Kent",
+    "layouts": "23",
+    "traders": "24",
+    "features": [],
+    "amenities": [],
+    "specialFeatures": [],
+    "description": "",
+    "latLng": "51.19245, 0.27495",
+    "url": "https://www.tonbridgemrc.com/exhibition"
   }
 ]
