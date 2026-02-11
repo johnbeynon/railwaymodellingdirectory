@@ -68,7 +68,7 @@
     "url": "https://astolatmrc.co.uk/"
   },
   {
-    "name": "Basingstoke & North Hants Model Railway Society Exhibition",
+    "name": "Exhibition",
     "organizer": "Basingstoke & North Hants Model Railway Society",
     "startDate": "2026-03-14",
     "endDate": "2026-03-15",
@@ -80,24 +80,24 @@
     "features": [],
     "amenities": [],
     "specialFeatures": [],
-    "description": "",
+    "description": "Step aboard for a journey through miniature worlds! Basingstoke & North Hants Model Railway Society is thrilled to host another highly anticipated Model Railway Show in 2026, Where the magic of railways comes to life in stunning detail! Please join us to see a great line-up of Layouts, Societies, and Traders!",
     "latLng": "51.25442, -1.11723",
     "url": "https://basingstokemrs.uk/basingstoke-model-railway-show-2026/"
   },
   {
-    "name": "Roxley Models Exhibition",
+    "name": "Exhibition",
     "organizer": "Roxley Models",
     "startDate": "2026-05-16",
     "endDate": "2026-05-17",
     "venue": "Denbies Wine Estate",
     "address": "Bradley Lane, Dorking, RH5 6AA",
     "county": "Surrey",
-    "layouts": 0,
-    "traders": 0,
+    "layouts": "TBC",
+    "traders": "TBC",
     "features": [],
     "amenities": [],
     "specialFeatures": [],
-    "description": "",
+    "description": "Join us for a special Model Railway Exhibition at Denbies Wine Estate, celebrating the 40th Anniversary of Roxley Models, set against the stunning backdrop of the Surrey Hills. This family-friendly event is perfect for enthusiasts, hobbyists, and anyone curious about the world of model railways. ",
     "latLng": "51.24815, -0.33186",
     "url": "https://www.roxleymodels.co.uk/article_info.php?articles_id=24"
   },
