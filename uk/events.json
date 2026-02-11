@@ -100,5 +100,22 @@
     "description": "",
     "latLng": "51.24815, -0.33186",
     "url": "https://www.roxleymodels.co.uk/article_info.php?articles_id=24"
+  },
+  {
+    "name": "Febex 2026",
+    "organizer": "Alton Model Railway Group",
+    "startDate": "2026-02-07",
+    "endDate": "2026-02-08",
+    "venue": "Eggars School",
+    "address": "Alton, GU34 4EQ",
+    "county": "Hampshire",
+    "layouts": "18+",
+    "traders": 17,
+    "features": [],
+    "amenities": [],
+    "specialFeatures": [],
+    "description": "",
+    "latLng": "51.15985, -0.95914",
+    "url": "https://febex.co.uk/"
   }
 ]
