@@ -185,5 +185,33 @@
     "description": "",
     "latLng": "51.19245, 0.27495",
     "url": "https://www.tonbridgemrc.com/exhibition"
+  },
+  {
+    "name": "Exhibition 2026",
+    "organizer": "Hampton Court Model Railway Society",
+    "startDate": "2026-11-07",
+    "endDate": "2026-11-08",
+    "venue": " Tolworth Recreation Centre",
+    "address": "Fullers Way North, Tolworth, Surrey, KT6 7LQ",
+    "county": "Surrey",
+    "layouts": "32",
+    "traders": "7+",
+    "features": [
+        "Model railway layouts",
+        "Trade stands",
+        "Refreshments available"
+    ],
+    "amenities": [
+        "Free parking",
+        "Disabled access",
+        "Cafe"
+    ],
+    "specialFeatures": [
+        "Various scales including N, OO, O gauge",
+        "Local and visiting layouts"
+    ],
+    "description": "Annual model railway exhibition organized by Hampton Court Model Railway Society featuring multiple layouts across different scales, trade stands, and refreshments. ",
+    "latLng": "51.37552, -0.29629",
+    "url": "https://www.hamptoncourtmrs.co.uk/showtrain/showtrain%202026.html"
   }
 ]
