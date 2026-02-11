@@ -117,5 +117,22 @@
     "description": "",
     "latLng": "51.15985, -0.95914",
     "url": "https://febex.co.uk/"
+  },
+  {
+    "name": "Club Exhibition",
+    "organizer": "East Bedfordshire Model railway Society",
+    "startDate": "2026-02-14",
+    "endDate": "2026-02-14",
+    "venue": "Statton School",
+    "address": "Eagle Farm Road, SG18 8JB",
+    "county": "Bedfordshire",
+    "layouts": "15+",
+    "traders": ,
+    "features": [],
+    "amenities": [],
+    "specialFeatures": [],
+    "description": "",
+    "latLng": "52.08664, -0.25019",
+    "url": "https://ebmrs.org/club-exhibition/"
   }
 ]
