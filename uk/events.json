@@ -275,6 +275,35 @@
     "description": "The Festival of British Railway Modelling is the UK's largest model railway exhibition featuring layouts in all scales and gauges, over 100 trade stands, demonstrations, workshops and activities for all the family.",
     "latLng": "52.5693, -0.2358",
     "url": "https://www.world-of-railways.co.uk/information/the-festival-of-british-railway-modelling"
-  }
+  },
+  {
+    "name": "The Bristol Model Railway Exhibition",
+    "organizer": "Warners Group Publications",
+    "startDate": "2026-05-01",
+    "endDate": "2026-05-03",
+    "venue": "Thornbury Leisure Centre",
+    "address": "Alveston Hill, Thornbury, Bristol, BS35 3JB",
+    "county": "South Gloucestershire",
+    "layouts": "30+",
+    "traders": "40+",
+    "features": [
+        "Model railway layouts",
+        "Trade stands",
+        "Refreshments available"
+    ],
+    "amenities": [
+        "Parking available",
+        "Disabled access",
+        "Refreshments"
+    ],
+    "specialFeatures": [
+        "OO gauge layouts",
+        "N gauge layouts",
+        "Other scales represented"
+    ],
+    "description": "The Bristol Model Railway Exhibition is an annual event organized by the Bristol Model Railway Society, featuring a wide variety of model railway layouts in different scales and gauges, along with numerous traders offering railway modeling supplies and accessories.",
+    "latLng": "51.609,-2.527",
+    "url": "https://www.world-of-railways.co.uk/information/the-bristol-model-railway-exhibition"
+}
 
 ]
