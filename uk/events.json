@@ -134,5 +134,39 @@
     "description": "",
     "latLng": "52.08664, -0.25019",
     "url": "https://ebmrs.org/club-exhibition/"
+  },
+  {
+    "name": "RISEX",
+    "organizer": "Risborough and District Model Railway Club",
+    "startDate": "2026-02-21",
+    "endDate": "2026-02-21",
+    "venue": "Wades Centre",
+    "address": "Wades Park, Stratton Rd, Risborough, HP27 9AX",
+    "county": "Buckinghamshire",
+    "layouts": "8",
+    "traders": ,
+    "features": [],
+    "amenities": [],
+    "specialFeatures": [],
+    "description": "",
+    "latLng": "51.72376, -0.83782",
+    "url": "https://www.rdmrc.org.uk/doku.php?id=exhibitions:risex:risex26"
+  },
+  {
+    "name": "RAILEX",
+    "organizer": "Risborough and District Model Railway Club",
+    "startDate": "2026-05-23",
+    "endDate": "2026-05-24",
+    "venue": "Stoke Mandeville Stadium",
+    "address": "Harvey Road, Aylesbury, HP21 9PP",
+    "county": "Buckinghamshire",
+    "layouts": "22",
+    "traders": "30+,
+    "features": [],
+    "amenities": [],
+    "specialFeatures": [],
+    "description": "",
+    "latLng": "51.72376, -0.83782",
+    "url": "https://www.railex.org.uk/doku.php"
   }
 ]
