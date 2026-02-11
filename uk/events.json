@@ -244,6 +244,37 @@
     "description": "The London Festival of Railway Modelling is one of the UK's premier model railway exhibitions, featuring over 50 layouts covering all scales and gauges, more than 80 traders, demonstrations, and special guests. Held at the iconic Alexandra Palace, this two-day event showcases the best of railway modelling.",
     "latLng": "51.59448, -0.13053",
     "url": "https://www.world-of-railways.co.uk/information/the-london-festival-of-railway-modelling"
-}
+  },
+  {
+    "name": "The Festival of British Railway Modelling - Exhibition",
+    "organizer": "Warners Group Publications",
+    "startDate": "2025-02-07",
+    "endDate": "2025-02-08",
+    "venue": "Peterborough Arena",
+    "address": "Peterborough Arena, Mallard Road, Peterborough, PE4 6NA",
+    "county": "Cambridgeshire",
+    "layouts": "40",
+    "traders": "100",
+    "features": [
+        "Model railway layouts",
+        "Trade stands",
+        "Demonstrations",
+        "Clinics and workshops"
+    ],
+    "amenities": [
+        "Free parking",
+        "Refreshments available",
+        "Wheelchair accessible"
+    ],
+    "specialFeatures": [
+        "UK's largest model railway exhibition",
+        "All scales and gauges represented",
+        "Live steam area",
+        "Kids activities"
+    ],
+    "description": "The Festival of British Railway Modelling is the UK's largest model railway exhibition featuring layouts in all scales and gauges, over 100 trade stands, demonstrations, workshops and activities for all the family.",
+    "latLng": "52.5693, -0.2358",
+    "url": "https://www.world-of-railways.co.uk/information/the-festival-of-british-railway-modelling"
+  }
 
 ]
