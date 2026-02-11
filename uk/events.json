@@ -213,5 +213,37 @@
     "description": "Annual model railway exhibition organized by Hampton Court Model Railway Society featuring multiple layouts across different scales, trade stands, and refreshments. ",
     "latLng": "51.37552, -0.29629",
     "url": "https://www.hamptoncourtmrs.co.uk/showtrain/showtrain%202026.html"
-  }
+  },
+  {
+    "name": "The London Festival of Railway Modelling",
+    "organizer": "Warners Group Publications",
+    "startDate": "2024-03-21",
+    "endDate": "2024-03-22",
+    "venue": "Alexandra Palace",
+    "address": "Alexandra Palace Way, London, N22 7AY",
+    "county": "Greater London",
+    "layouts": "50+",
+    "traders": "80+",
+    "features": [
+        "Model railway layouts",
+        "Trade stands",
+        "Demonstrations",
+        "Special guests",
+        "Bring and buy stall"
+    ],
+    "amenities": [
+        "Parking available",
+        "Refreshments available",
+        "Disabled access"
+    ],
+    "specialFeatures": [
+        "Largest model railway show in London",
+        "Wide variety of scales and gauges",
+        "Expert talks and demonstrations"
+    ],
+    "description": "The London Festival of Railway Modelling is one of the UK's premier model railway exhibitions, featuring over 50 layouts covering all scales and gauges, more than 80 traders, demonstrations, and special guests. Held at the iconic Alexandra Palace, this two-day event showcases the best of railway modelling.",
+    "latLng": "51.59448, -0.13053",
+    "url": "https://www.world-of-railways.co.uk/information/the-london-festival-of-railway-modelling"
+}
+
 ]
