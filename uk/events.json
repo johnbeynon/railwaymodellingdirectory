@@ -276,34 +276,35 @@
     "latLng": "52.5693, -0.2358",
     "url": "https://www.world-of-railways.co.uk/information/the-festival-of-british-railway-modelling"
   },
-  {
-    "name": "The Bristol Model Railway Exhibition",
-    "organizer": "Warners Group Publications",
-    "startDate": "2026-05-01",
-    "endDate": "2026-05-03",
-    "venue": "Thornbury Leisure Centre",
-    "address": "Alveston Hill, Thornbury, Bristol, BS35 3JB",
-    "county": "South Gloucestershire",
-    "layouts": "30+",
-    "traders": "40+",
+ {
+    "name": "The International N Gauge Show - Exhibition",
+    "organizer": "Meridiènne Exhibitions",
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-13",
+    "venue": "Warwickshire Event Centre",
+    "address": "TWarwickshire Event Centre, A425, Southam Road, Leamington Spa, CV31 1FE",
+    "county": "Warwickshire",
+    "layouts": "TBC",
+    "traders": "TBC",
     "features": [
-        "Model railway layouts",
+        "N Gauge layouts",
         "Trade stands",
-        "Refreshments available"
+        "Demonstrations",
+        "Competitions"
     ],
     "amenities": [
-        "Parking available",
+        "Free parking",
+        "Café",
         "Disabled access",
-        "Refreshments"
+        "Toilets"
     ],
     "specialFeatures": [
-        "OO gauge layouts",
-        "N gauge layouts",
-        "Other scales represented"
+        "International N Gauge exhibition",
+        "One of the largest N Gauge shows in the UK",
+        "Weekend event"
     ],
-    "description": "The Bristol Model Railway Exhibition is an annual event organized by the Bristol Model Railway Society, featuring a wide variety of model railway layouts in different scales and gauges, along with numerous traders offering railway modeling supplies and accessories.",
-    "latLng": "51.609,-2.527",
-    "url": "https://www.world-of-railways.co.uk/information/the-bristol-model-railway-exhibition"
-}
-
+    "description": "The International N Gauge Show is one of the premier N Gauge exhibitions in the UK, featuring around 60 layouts from across the country and internationally, alongside approximately 40 trade stands. The show includes demonstrations, competitions, and provides a comprehensive showcase of N Gauge railway modelling.",
+    "latLng": "52.27047, -1.46880",
+    "url": "https://www.meridienneexhibitions.co.uk/events/the-international-n-gauge-show"
+  }
 ]
