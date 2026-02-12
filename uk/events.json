@@ -389,6 +389,36 @@
     "description": "Annual model railway exhibition hosted by Burnham District Model Railway Club at Priory Community School, featuring around 20 layouts and 15 trade stands over two days.",
     "latLng": "51.36385, -2.90993",
     "url": "https://bdmrc.co.uk/weston-super-mare-2026/"
+  },
+  {
+    "name": "ModRail 2026 Exhibition",
+    "organizer": "Swindon Model Railway Club",
+    "startDate": "2026-03-07",
+    "endDate": "2026-03-07",
+    "venue": "Museum of the Great Western Railway",
+    "address": "Fire Fly Avenue, Swindon, SN2 2EY",
+    "county": "Wiltshire",
+    "layouts": "29",
+    "traders": "9",
+    "features": [
+        "Model railway layouts",
+        "Trade stands",
+        "Refreshments available",
+        "Free parking"
+    ],
+    "amenities": [
+        "Wheelchair accessible",
+        "Toilets",
+        "Cafe/refreshments"
+    ],
+    "specialFeatures": [
+        "Held at historic railway museum",
+        "Large exhibition space",
+        "Two-day event"
+    ],
+    "description": "ModRail 2026 is Swindon Model Railway Club's annual exhibition featuring around 20 model railway layouts and approximately 30 trade stands. The event takes place over two days at the STEAM Museum in Swindon.",
+    "latLng": "51.56336, -1.79543",
+    "url": "https://www.swindonmodelrailwayclub.com/index.php/modrail-2026"
 }
   
 ]
