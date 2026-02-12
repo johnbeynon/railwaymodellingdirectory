@@ -355,5 +355,22 @@
     "description": "Portsmouth Railex returns to Horndean Technology College on 21st & 22nd February 2026 showcasing 20+ layouts of various gauges from around the UK. Supported by traders and societies. A must visit exhibition for model railway enthusiasts and families of all ages.",
     "latLng": "50.91341, -1.01007",
     "url": "https://portsmouthrailex.wixsite.com/website"
-}
+  },
+  {
+    "name": "Exhibition",
+    "organizer": "Lincoln and District Model Railway Club",
+    "startDate": "2026-02-21",
+    "endDate": "2026-02-22",
+    "venue": "County Assembly Rooms",
+    "address": "The Bailgate, Lincoln, LN1 3AR",
+    "county": "Lincolnshire",
+    "layouts": "19",
+    "traders": "9",
+    "features": [],
+    "amenities": [],
+    "specialFeatures": [],
+    "description": "",
+    "latLng": "53.23579, -0.53829",
+    "url": ""
+  }
 ]
