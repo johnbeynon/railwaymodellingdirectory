@@ -323,5 +323,37 @@
     "description": "All aboard the Bournemouth model railway exhibition 2026. After a very successful exhibition in 2025 that saw 1,111 visitors attend the show at the Hamworthy club. Join us at our new venue, Kinson community centre. With over 24 layouts and full trade and society's attending.",
     "latLng": "50.77139, -1.90056",
     "url": "https://bmre.org.uk/"
-  }
+  },
+  {
+    "name": "Railex 2026",
+    "organizer": "Portsmouth Model Railway Club",
+    "startDate": "2026-02-21",
+    "endDate": "2026-0222",
+    "venue": "Horndean Technology College",
+    "address": "Horndean, Barton Cross, Horndean PO8 9PQ",
+    "county": "Hampshire",
+    "layouts": "20+",
+    "traders": "10",
+    "features": [
+        "Model railway layouts",
+        "Trade stands",
+        "Demonstration areas",
+        "Multiple gauges"
+    ],
+    "amenities": [
+        "Free parking",
+        "Refreshments available",
+        "Disabled access",
+        "Toilets"
+    ],
+    "specialFeatures": [
+        "Large exhibition hall",
+        "30 layouts from around the UK",
+        "Wide range of scales and gauges",
+        "Major traders present"
+    ],
+    "description": "Portsmouth Railex returns to Horndean Technology College on 21st & 22nd February 2026 showcasing 20+ layouts of various gauges from around the UK. Supported by traders and societies. A must visit exhibition for model railway enthusiasts and families of all ages.",
+    "latLng": "50.91341, -1.01007",
+    "url": "https://portsmouthrailex.wixsite.com/website"
+}
 ]
