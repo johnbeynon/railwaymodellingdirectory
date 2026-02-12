@@ -306,5 +306,22 @@
     "description": "The International N Gauge Show is one of the premier N Gauge exhibitions in the UK, featuring around 60 layouts from across the country and internationally, alongside approximately 40 trade stands. The show includes demonstrations, competitions, and provides a comprehensive showcase of N Gauge railway modelling.",
     "latLng": "52.27047, -1.46880",
     "url": "https://www.meridienneexhibitions.co.uk/events/the-international-n-gauge-show"
+  },
+  {
+    "name": "BMRE 2026",
+    "organizer": "East Dorset N Gauge Group",
+    "startDate": "2026-02-14",
+    "endDate": "2026-02-15",
+    "venue": "Kinson Community Centre",
+    "address": "Pelhams Park, Millhams Road, Kinson, BH10 7LH",
+    "county": "Dorset",
+    "layouts": "27",
+    "traders": "9",
+    "features": [],
+    "amenities": [],
+    "specialFeatures": [],
+    "description": "All aboard the Bournemouth model railway exhibition 2026. After a very successful exhibition in 2025 that saw 1,111 visitors attend the show at the Hamworthy club. Join us at our new venue, Kinson community centre. With over 24 layouts and full trade and society's attending.",
+    "latLng": "50.77139, -1.90056",
+    "url": "https://bmre.org.uk/"
   }
 ]
