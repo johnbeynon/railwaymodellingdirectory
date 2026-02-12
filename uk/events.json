@@ -372,5 +372,23 @@
     "description": "",
     "latLng": "53.23579, -0.53829",
     "url": ""
-  }
+  },
+  {
+    "name": "Weston-Super-Mare Show 2026",
+    "organizer": "Burnham and District Model Railway Club",
+    "startDate": "2026-02-14",
+    "endDate": "2026-02-15",
+    "venue": "Priory Community School",
+    "address": "Queens Way, Weston-super-Mare BS22 6BP",
+    "county": "Somerset",
+    "layouts": "25",
+    "traders": "12",
+    "features": [],
+    "amenities": [],
+    "specialFeatures": [],
+    "description": "Annual model railway exhibition hosted by Burnham District Model Railway Club at Priory Community School, featuring around 20 layouts and 15 trade stands over two days.",
+    "latLng": "51.36385, -2.90993",
+    "url": "https://bdmrc.co.uk/weston-super-mare-2026/"
+}
+  
 ]
